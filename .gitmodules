@@ -1,0 +1,3 @@
+[submodule "shopee-scraper"]
+	path = shopee-scraper
+	url = https://github.com/walsptr/shopee-scraper.git
